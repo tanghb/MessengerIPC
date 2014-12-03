@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MessengerClient</string>
+    <string name="hint_content">请输入要发送的消息</string>
+    <string name="btn_send">发送</string>
+    <string name="msg_receive">接收的消息：</string>
+
+</resources>
